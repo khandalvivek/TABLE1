@@ -1,0 +1,16 @@
+table,td,th{
+    border: 1px solid green;
+}
+td,th{
+    padding: 15px;
+}
+table{
+    width: 100%; 
+    font-size: 30px;
+    background-color: rgb(211, 116, 116);
+    border-spacing: 5px;
+
+}
+th{
+    background-color: rgba(82, 3, 3, 0.751);
+}
